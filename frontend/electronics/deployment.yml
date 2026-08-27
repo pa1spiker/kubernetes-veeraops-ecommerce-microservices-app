@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: electronics
-        image: 766198264582.dkr.ecr.us-east-1.amazonaws.com/shopping-site-electronics:b123d578eaca94c0f4b42dac3c92a8677e08e802
+        image: 766198264582.dkr.ecr.us-east-1.amazonaws.com/shopping-site-electronics:6240e0ddaabe3e9543d8a8afc7d25ac50fddd8ef
         ports:
         - containerPort: 80
 ---
